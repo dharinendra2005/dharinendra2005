@@ -25,4 +25,5 @@ Click Execute Workflow to test.
 Check Executions for errors.
 
 Activate workflow when working.
-# screenshot <img width="1035" height="501" alt="Screenshot 2025-11-21 200933" src="https://github.com/user-attachments/assets/330e889a-08d0-4337-b8fc-5cf8795932c3" />
+# screenshot <img width="1845" height="753" alt="image" src="https://github.com/user-attachments/assets/dc0218d3-9c97-41f9-a250-21ab05717762" />
+
