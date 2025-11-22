@@ -21,4 +21,5 @@ Click Save.
 Click Execute Workflow to test.
 
 Activate workflow when it work
-# screenshrt <img width="971" height="500" alt="Screenshot 2025-11-21 201732" src="https://github.com/user-attachments/assets/c44abec8-f5b0-4e2d-9915-c29a8c04b88c" />
+# screenshrt <img width="1323" height="540" alt="image" src="https://github.com/user-attachments/assets/58e77d4a-4b1e-4291-972e-8a3183ab366d" />
+
