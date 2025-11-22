@@ -23,4 +23,4 @@ Save the workflow.
 Click Execute Workflow to test.
 
 Activate workflow when it works.
-# screenshot <img width="1035" height="501" alt="Screenshot 2025-11-21 200933" src="https://github.com/user-attachments/assets/8cf0f35e-dbb5-44cc-82dd-ce0fc437ae5e" />
+# screenshot <img width="1545" height="619" alt="image" src="https://github.com/user-attachments/assets/26338dd0-ad9d-4dd7-8a36-9cbe23f4fcb9" />
